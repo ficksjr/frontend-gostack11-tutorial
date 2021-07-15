@@ -1,1 +1,3 @@
-console.log("Hello World!");
+import {soma} from './soma';
+
+console.log(soma(7,3));
